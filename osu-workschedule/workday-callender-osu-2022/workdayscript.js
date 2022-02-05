@@ -1,4 +1,3 @@
-//import moment from "https://cdn.skypack.dev/pin/moment@v2.29.1-499bXXPVrgochwV6vJde/mode=imports/optimized/moment.js";
 
 const store = window.localStorage;
 
